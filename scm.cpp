@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 float scm_forca_bruta(float S[], int n) {
      int maior = 0;
      for(int i = 0; i < n; i++)
